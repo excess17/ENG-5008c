@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "eng-5008c",
+    "version": "0.0.1",
+    "description": "eng-5008c description",
+    "type": "bundle"
+}
