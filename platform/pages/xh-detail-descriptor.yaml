@@ -1,0 +1,18 @@
+descriptorVersion: v5
+name: detail
+parentName: dettagli_servizi
+titles:
+  en: Detail
+  it: Dettaglio
+pageModel: pom_template_detail
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets:
+  - name: pom_login_form
+    config: null
+    pos: 2
+

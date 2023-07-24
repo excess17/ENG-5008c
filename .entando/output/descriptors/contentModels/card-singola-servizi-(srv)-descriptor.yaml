@@ -1,0 +1,33 @@
+id: 20019
+contentType: SRV
+description: Card singola servizi (SRV)
+contentShape: |-
+    <!-- Card singola servizi (SRV) -->
+    <div class="col-md-4 mb-3" >
+        <article class="scheda scheda-round">
+            <div class="scheda-icona-small">
+                <a href="$content.getContentOnPageLink("detail_e1207223")&modelId=20018" title="$i18n.getLabel('VAI_A') : $content.title.text">
+                    <svg class="icon">
+                    <use href="/entando-de-app/cmsresources/bundles/comune-ca-e1207223/resources/comune/img/sprite.svg#it-settings"></use>
+                    </svg>
+                    $content.title.text
+                </a>
+            </div>
+            <div class="scheda-testo-small">
+                <h4>
+                    <a href="$content.getContentOnPageLink("detail_e1207223")&modelId=20018" title="$i18n.getLabel('VAI_A') :"$content.link.text">$content.title.text</a>
+                </h4>
+                <p>$content.subtitle.text</p>
+            </div>
+            <div class="scheda-footer">
+                <a href="$content.getContentOnPageLink("detail_e1207223")&modelId=20019" title="$i18n.getLabel('VAI_A') : $content.title.text" class="tutte">
+                    $i18n.getLabel('VAI_A')
+                    <svg class="icon" aria-labelledby="$content.getId()">
+                    <title id="$content.getId()">$content.getId()</title>
+                    <use href="/entando-de-app/cmsresources/bundles/comune-ca-e1207223/resources/comune/img/sprite.svg#it-arrow-right"></use>
+                    </svg>
+                </a>	
+            </div>
+        </article>
+     </div>
+    
