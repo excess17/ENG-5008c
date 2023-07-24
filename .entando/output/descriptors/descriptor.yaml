@@ -7,8 +7,4 @@ components:
     - contentTypes/srv-descriptor.yaml
   pageModels:
     - pageModels/pom_template_detail-descriptor.yaml
-  pages:
-    - pages/xh-detail-descriptor.yaml
-  widgets:
-    - widgets/pom_login_form-descriptor.yaml
 descriptorVersion: v5

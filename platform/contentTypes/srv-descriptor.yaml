@@ -1,7 +1,7 @@
 code: SRV
 name: Servizi (SRV)
 status: '0'
-viewPage: detail
+viewPage: about_us
 defaultContentModel: 20019
 defaultContentModelList: 20019
 attributes:
